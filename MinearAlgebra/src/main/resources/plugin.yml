@@ -1,0 +1,11 @@
+name: MinearAlgebra
+main: com.example.minearalgebra.MinearAlgebra
+version: 0.0.1
+api-version: 1.15
+description: A Minecraft plugin that integrates linear algebra concepts
+author: tacksam
+commands:
+  drawvector:
+    description: Draws a vector in the room.
+    usage: /drawvector <x> <y> <z>
+
